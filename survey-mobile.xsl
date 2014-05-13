@@ -61,10 +61,10 @@
                         </xsl:for-each>
                      </fieldset>
                   </div>
-               </form>
+               </form> 
             </div> <!-- main -->
             <div data-role="footer" data-position="fixed">
-               <h3>Prof. Angelo Augusto Frozza (IFC-Camboriú)</h3>
+               <h3>Prof. Angelo Augusto Frozza (IFC-CamboriÃº)</h3>
             </div> <!-- footer -->            
          </div> <!-- page -->
       </body>
